@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨  Passionate Engineer with a proven track record in exploring and efficiently utilizing data to create innovative and high<br>performing IT solutions.</p>
 
 ###
 
